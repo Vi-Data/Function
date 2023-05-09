@@ -1,6 +1,6 @@
 
 <p align="center">
-This repository contains 3  main functions:
+This repository contains 3 functions:
 </p>
 read_data(file_path): Reads the CSV file and returns a DataFrame with the date and time columns properly formatted.  
 
