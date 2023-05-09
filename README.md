@@ -1,7 +1,7 @@
 
 <p align="center">
 This repository contains 3  main functions:
-<p align="center">
+</p>
 read_data(file_path): Reads the CSV file and returns a DataFrame with the date and time columns properly formatted.  
 
 
@@ -9,7 +9,7 @@ get_longest_wait_times_per_day(df): Processes the DataFrame and returns a new Da
 
 
 plot_longest_wait_times(daily_max_wait_time_with_time): Plots the longest wait times per day using matplotlib.
-</p>
+
 
 
 Dependencies
